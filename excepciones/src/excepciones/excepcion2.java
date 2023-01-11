@@ -4,7 +4,7 @@ public class excepcion2 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		int contador=0,nFallos1=0,nFallos2=0,n1=0,n2=0;
+		int contador=0,nFallos1=0,nFallos2=0,n1=0,n2=0,l=6;
 		int[]division=new int[3];
 		do {
 			System.out.println("Division numero "+contador);
