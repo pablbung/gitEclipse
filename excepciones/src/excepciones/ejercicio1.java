@@ -4,7 +4,7 @@ public class ejercicio1 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		int n,contador=0,nFallos=0,p=13;
+		int n,contador=0,nFallos=0,p=12;
 		int[]cosas=new int[2];
 		int[] enteros=new int[5];
 		do {

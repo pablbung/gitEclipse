@@ -4,7 +4,7 @@ public class excepcion {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		int n=0,contador=0;
+		int n=0,contador=0, c=10;
 		boolean control=false;
 		/*
 		 * do { try{ n=sc.nextInt(); control=true; }catch(InputMismatchException e){
