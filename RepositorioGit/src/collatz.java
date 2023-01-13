@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class collatz {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		int contador=0,num,nMax=0;
+		int contador=0,num,nMax=0, otraVariable=0;
 		boolean disjuntos;
 		ArrayList<Integer> orbitaCollatz=new ArrayList<>();
 		ArrayList<ArrayList<Integer>> listaOrbitas=new ArrayList<>();
